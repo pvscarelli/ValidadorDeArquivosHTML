@@ -33,9 +33,9 @@ Isso vai abrir a interface gráfica do validador.
 
 ## Selecionar o Arquivo HTML
 
-### Linux: Para obter o caminho completo do arquivo, navegue até a pasta onde o arquivo está localizado e rode o comando pwd no terminal. Em seguida, adicione o nome do arquivo ao caminho mostrado.
+Linux: Para obter o caminho completo do arquivo, navegue até a pasta onde o arquivo está localizado e rode o comando pwd no terminal. Em seguida, adicione o nome do arquivo ao caminho mostrado.
 
-### Windows: Navegue até a pasta onde o arquivo está localizado. Segure a tecla Shift, clique com o botão direito do mouse no arquivo e selecione "Copiar como caminho". Cole o caminho na interface gráfica.
+Windows: Navegue até a pasta onde o arquivo está localizado. Segure a tecla Shift, clique com o botão direito do mouse no arquivo e selecione "Copiar como caminho". Cole o caminho na interface gráfica.
 
 ## Realizar a Validação
 
