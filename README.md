@@ -1,6 +1,6 @@
 # HTML Validator
 
-Este é um projeto desenvolvido como trabalho final da disciplina de Estrutura de Dados, com o objetivo de validar arquivos HTML. O programa verifica se o arquivo HTML possui todas as tags necessárias, se nenhuma tag está fora de ordem, e se não há erros no arquivo. A validação é feita sem o uso de classes nativas de estrutura de dados do Java, utilizando, em vez disso, uma lista encadeada e uma pilha implementadas do zero.
+Projeto desenvolvido como trabalho final da disciplina de Estrutura de Dados, com o objetivo de validar arquivos HTML. O programa verifica se o arquivo HTML possui todas as tags necessárias, se nenhuma tag está fora de ordem, e se não há erros no arquivo. A validação é feita sem o uso de classes nativas de estrutura de dados do Java, utilizando, em vez disso, uma lista encadeada e uma pilha implementadas do zero.
 
 ## Funcionalidades
 
