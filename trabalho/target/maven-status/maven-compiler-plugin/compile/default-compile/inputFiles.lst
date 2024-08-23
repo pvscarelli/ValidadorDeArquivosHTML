@@ -1,7 +1,7 @@
-/home/pvscarelli/Documents/FURB24/trabalho/trabalho/src/main/java/validadorhtml/listaEncadeada/NoLista.java
-/home/pvscarelli/Documents/FURB24/trabalho/trabalho/src/main/java/validadorhtml/ValidadorHtml.java
-/home/pvscarelli/Documents/FURB24/trabalho/trabalho/src/main/java/validadorhtml/pilha/PilhaLista.java
-/home/pvscarelli/Documents/FURB24/trabalho/trabalho/src/main/java/validadorhtml/pilha/PilhaVaziaException.java
-/home/pvscarelli/Documents/FURB24/trabalho/trabalho/src/main/java/validadorhtml/listaEncadeada/ListaEncadeada.java
-/home/pvscarelli/Documents/FURB24/trabalho/trabalho/src/main/java/validadorhtml/App.java
-/home/pvscarelli/Documents/FURB24/trabalho/trabalho/src/main/java/validadorhtml/pilha/Pilha.java
+/home/scarelli/Documents/github/ValidadorDeArquivosHTML/trabalho/src/main/java/validadorhtml/ValidadorHtml.java
+/home/scarelli/Documents/github/ValidadorDeArquivosHTML/trabalho/src/main/java/validadorhtml/pilha/Pilha.java
+/home/scarelli/Documents/github/ValidadorDeArquivosHTML/trabalho/src/main/java/validadorhtml/pilha/PilhaVaziaException.java
+/home/scarelli/Documents/github/ValidadorDeArquivosHTML/trabalho/src/main/java/validadorhtml/pilha/PilhaLista.java
+/home/scarelli/Documents/github/ValidadorDeArquivosHTML/trabalho/src/main/java/validadorhtml/listaEncadeada/NoLista.java
+/home/scarelli/Documents/github/ValidadorDeArquivosHTML/trabalho/src/main/java/validadorhtml/App.java
+/home/scarelli/Documents/github/ValidadorDeArquivosHTML/trabalho/src/main/java/validadorhtml/listaEncadeada/ListaEncadeada.java

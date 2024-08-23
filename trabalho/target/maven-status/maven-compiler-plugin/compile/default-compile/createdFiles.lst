@@ -1,1 +1,9 @@
-validadorhtml/App.form
+validadorhtml/listaEncadeada/NoLista.class
+validadorhtml/listaEncadeada/ListaEncadeada.class
+validadorhtml/ValidadorHtml.class
+validadorhtml/App.class
+validadorhtml/App$2.class
+validadorhtml/pilha/Pilha.class
+validadorhtml/pilha/PilhaVaziaException.class
+validadorhtml/App$1.class
+validadorhtml/pilha/PilhaLista.class
