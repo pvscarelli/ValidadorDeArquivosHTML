@@ -44,3 +44,7 @@ Após inserir o caminho completo do arquivo, clique em "Validar". O programa rea
 ## Estrutura de Dados
 
 Este projeto foi desenvolvido sem o uso de classes nativas de estrutura de dados do Java, implementando do zero uma lista encadeada e uma pilha para realizar a validação das tags HTML.
+
+## Diagrama do Projeto
+
+Para uma visão geral da arquitetura e das principais componentes do projeto, consulte o diagrama disponível no arquivo diagrama.jpg no repositório. O diagrama ilustra as relações entre as diferentes classes e os fluxos de dados envolvidos na validação dos arquivos HTML.
